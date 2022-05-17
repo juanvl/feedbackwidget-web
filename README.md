@@ -13,6 +13,8 @@ Access link: <a href="https://feedbackwidget-web-juanvl.vercel.app/" target="bla
 
 Figma prototype: <a href="https://www.figma.com/community/file/1102912516166573468/Feedback-Widget" target="_blank" >https://www.figma.com/community/file/1102912516166573468/Feedback-Widget</a>
 
+Backend project: <a href="https://github.com/juanvl/feedbackwidget-api" target="blank" >https://github.com/juanvl/feedbackwidget-api</a>
+
 
 ## ✨ Technologies
 
